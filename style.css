@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC');
+@import url('https://fonts.googleapis.com/css?family=Allerta+Stencil');
+*{
+	padding: 0;
+	margin:0;
+	font-family: 'Noto Sans TC', sans-serif;
+	color: #FFFFFF;
+}
+.col-1{
+	width: 8.66667%;
+}
+.col-2{
+	width: 18.66667%;
+}
+.col-3{
+	width: 28.66667%;
+}
+.col-4{
+	width: 38.66667%;
+}
+.col-5{
+	width: 48.66667%;
+}
+.col-6{
+	width: 58.66667%;
+}
+.col-7{
+	width: 68.66667%;
+}
+.col-8{
+	width: 78.66667%;
+}
+.col-9{
+	width: 88.66667%;
+}
+.col-10{
+	width: 100%;
+}
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10{
+	margin-left: 0.2%;
+	margin-right: 0.2%;
+	padding: 0.455%;
+}
+.roww{
+	margin-top: 0.8888%;
+	margin-bottom: 0.8888%;
+	display: -ms-flexbox;
+  	display: flex;
+    -ms-flex-wrap: wrap;
+  	flex-wrap: wrap;
+}
+.pad-top-1{
+	padding-top: 10%;
+}
+.pad-right-1{
+	padding-right: 10%;
+}
+.pad-bottom-1{
+	padding-bottom: 10%;
+}
+.pad-left-1{
+	padding-left: 10%;
+}
+.pad-top-0-5{
+	padding-top: 5%;
+}
+.pad-right-0-5{
+	padding-right: 5%;
+}
+.pad-bottom-0-5{
+	padding-bottom: 5%;
+}
+.pad-left-0-5{
+	padding-left: 5%;
+}
+.mar-top-1{
+	margin-top: 10%;
+}
+.mar-right-1{
+	margin-right: 10%;
+}
+.mar-bottom-1{
+	margin-bottom: 10%;
+}
+.mar-left-1{
+	margin-left: 10%;
+}
+.mar-top-0-5{
+	margin-top: 5%;
+}
+.mar-right-0-5{
+	margin-right: 5%;
+}
+.mar-bottom-0-5{
+	margin-bottom: 5%;
+}
+.mar-left-0-5{
+	margin-left: 5%;
+}
+/* Color */
+.black{
+	background: #000000;
+}
+.white{
+	background: #FFFFFF;
+}
+.beekeeper{
+	background: #f6e58d;
+}
+.spicednectarine{
+	background: #ffbe76;
+}
+.pinkglamour{
+	background: #ff7979;
+}
+.junebud{
+	background: #badc58;
+}
+.coastalbreeze{
+	background: #dff9fb;
+}
+.turbo{
+	background: #f9ca24;
+}
+.quincejelly{
+	background: #f0932b;
+}
+.carminepink{
+	background: #eb4d4b;
+}
+.clouds{
+	background: #ecf0f1;
+}
+.green-sea{
+	background: #16a085;
+}
+.pomegranate{
+	background: #c0392b;
+}
+.bluenight{
+	background: #353b48;
+}
+.electromagnetic{
+	background: #2f3640;
+}
+.midnightblue{
+	background: #2c3e50;
+}
+.draculaorchid{
+	background: #2d3436;
+}
+/* Text Color */
+.text-black{
+	color: #000000;
+}
+.text-white{
+	color: #FFFFFF;
+}
+.text-beekeeper{
+	color: #f6e58d;
+}
+.text-spicednectarine{
+	color: #ffbe76;
+}
+.text-pinkglamour{
+	color: #ff7979;
+}
+.text-junebud{
+	color: #badc58;
+}
+.text-coastalbreeze{
+	color: #dff9fb;
+}
+.text-turbo{
+	color: #f9ca24;
+}
+.text-quincejelly{
+	color: #f0932b;
+}
+.text-carminepink{
+	color: #eb4d4b;
+}
+.text-clouds{
+	color: #ecf0f1;
+}
+.text-green-sea{
+	color: #16a085;
+}
+.text-pomegranate{
+	color: #c0392b;
+}
+.bor-rad-5{
+	border-radius: 5px;
+}
+.bor-rad-15{
+	border-radius: 15px;
+}
+.bor-rad-25{
+	border-radius: 25px;
+}
+.right{
+	float: right;
+}
+.left{
+	float: left;
+}
+.header{
+	font-family: 'Allerta Stencil', sans-serif;
+	font-size: 48px;
+}
+.text-center{
+	text-align: center;
+}
+.text-right{
+	text-align: right;
+}
+.text-left{
+	text-align: left;
+}
+.text-justify{
+	text-align: justify;
+}
